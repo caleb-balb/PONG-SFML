@@ -1,0 +1,27 @@
+﻿  SMFLpractice.cpp
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(24,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(25,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(26,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(26,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(28,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(29,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(30,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(100,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(100,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(101,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(103,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(111,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(111,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(112,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(113,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(114,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(126,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(127,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(132,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(133,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(139,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(145,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(150,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(151,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(32,48): warning C4390: ';': empty controlled statement found; is this the intent?
+  SMFLpractice.vcxproj -> C:\Users\caleb\source\repos\SMFLpractice\Debug\SMFLpractice.exe

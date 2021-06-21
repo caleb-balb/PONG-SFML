@@ -1,0 +1,37 @@
+﻿  SMFLpractice.cpp
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(48,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(49,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(50,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(50,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(52,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(53,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(54,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(96,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(96,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(108,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(108,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(171,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(171,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(173,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(174,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(175,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(185,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(185,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(186,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(188,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(189,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(203,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(204,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(209,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(210,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(218,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(226,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(232,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(244,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\caleb\source\repos\SMFLpractice\SMFLpractice\SMFLpractice.cpp(245,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  0 of 155 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SMFLpractice.vcxproj -> C:\Users\caleb\source\repos\SMFLpractice\Release\SMFLpractice.exe
